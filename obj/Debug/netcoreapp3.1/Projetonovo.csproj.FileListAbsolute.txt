@@ -1,0 +1,13 @@
+/home/maiara/Área de Trabalho/meuprimeiroprojeto/Projetonovo/bin/Debug/netcoreapp3.1/Projetonovo
+/home/maiara/Área de Trabalho/meuprimeiroprojeto/Projetonovo/bin/Debug/netcoreapp3.1/Projetonovo.deps.json
+/home/maiara/Área de Trabalho/meuprimeiroprojeto/Projetonovo/bin/Debug/netcoreapp3.1/Projetonovo.runtimeconfig.json
+/home/maiara/Área de Trabalho/meuprimeiroprojeto/Projetonovo/bin/Debug/netcoreapp3.1/Projetonovo.runtimeconfig.dev.json
+/home/maiara/Área de Trabalho/meuprimeiroprojeto/Projetonovo/bin/Debug/netcoreapp3.1/Projetonovo.dll
+/home/maiara/Área de Trabalho/meuprimeiroprojeto/Projetonovo/bin/Debug/netcoreapp3.1/Projetonovo.pdb
+/home/maiara/Área de Trabalho/meuprimeiroprojeto/Projetonovo/obj/Debug/netcoreapp3.1/Projetonovo.csprojAssemblyReference.cache
+/home/maiara/Área de Trabalho/meuprimeiroprojeto/Projetonovo/obj/Debug/netcoreapp3.1/Projetonovo.AssemblyInfoInputs.cache
+/home/maiara/Área de Trabalho/meuprimeiroprojeto/Projetonovo/obj/Debug/netcoreapp3.1/Projetonovo.AssemblyInfo.cs
+/home/maiara/Área de Trabalho/meuprimeiroprojeto/Projetonovo/obj/Debug/netcoreapp3.1/Projetonovo.csproj.CoreCompileInputs.cache
+/home/maiara/Área de Trabalho/meuprimeiroprojeto/Projetonovo/obj/Debug/netcoreapp3.1/Projetonovo.dll
+/home/maiara/Área de Trabalho/meuprimeiroprojeto/Projetonovo/obj/Debug/netcoreapp3.1/Projetonovo.pdb
+/home/maiara/Área de Trabalho/meuprimeiroprojeto/Projetonovo/obj/Debug/netcoreapp3.1/Projetonovo.genruntimeconfig.cache
